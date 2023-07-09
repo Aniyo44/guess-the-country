@@ -1,5 +1,6 @@
-<div align="center">
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
+
+<div align="center">
 
  <h1>    Guess the country  </h1>
                                        
